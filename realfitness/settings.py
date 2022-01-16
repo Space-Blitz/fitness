@@ -52,7 +52,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'ReaLfitness.urls'
+ROOT_URLCONF = 'realfitness.urls'
 
 TEMPLATES = [
     {
@@ -70,7 +70,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'ReaLfitness.wsgi.application'
+WSGI_APPLICATION = 'realfitness.wsgi.application'
 
 
 # Database
