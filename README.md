@@ -31,3 +31,5 @@ ReaL Fitness is a Fitness management system.
 ###### 4. Run the server
 
 ``` python manage.py runserver ```
+
+###### 5. Checkout the project in your browser [here](http://localhost:8000)
